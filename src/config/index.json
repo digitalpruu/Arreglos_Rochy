@@ -41,7 +41,7 @@
       },
       {
         "title": "Servicios",
-        "description": "Ofrecemos servicios de ajustes y reparaciones para adaptar tu ropa a la perfección, así como confección de prendas a medida. Con años de experiencia en el arte de la costura, garantizamos un trabajo de alta calidad y un ajuste impecable.",
+        "description": "Ofrecemos servicios de ajustes y reparaciones para adaptar tu ropa a la perfección. Con años de experiencia en el arte de la costura, garantizamos un trabajo de alta calidad y un ajuste impecable.",
         "img": "/assets/images/3.png"
       }
     ]
@@ -53,23 +53,19 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 313 4442348",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "MARTHAROCIO_MARTINEZ@HOTMAIL.COM",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        
       },
       {
-        "name": "Facebook",
-        "description": "Mi Negocio",
-        "icon": "/assets/images/facebook.jpg"
+        
       }
     ]
   },
