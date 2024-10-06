@@ -59,8 +59,13 @@
       {
         "name": "Email",
         "description": "MARTHAROCIO_MARTINEZ@HOTMAIL.COM",
-        "icon": "/assets/images/email.png",
-        "url":""
+        "icon": "/assets/images/email.png"
+      },
+      {
+        "name": "Facebook",
+        "description": "Arreglos Rochy",
+        "icon": "/assets/images/facebook.jpg",
+        "url":"https://www.facebook.com/people/Arreglos-Rochy/61565687414660/"
       }
     ]
   },
